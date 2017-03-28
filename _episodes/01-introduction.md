@@ -9,3 +9,10 @@ objectives:
 keypoints:
 - "First key point."
 ---
+
+This is  a test lession
+
+.challenge This is a challenge
+.solution This is the solution
+
+
