@@ -31,4 +31,4 @@ Here's some raw text.  Let's see what happens
 ~~~
 {: .source}
 
-.error  This went wrong
+.error:  This went wrong
