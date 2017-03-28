@@ -1,13 +1,15 @@
 ---
-title: "Introduction"
-teaching: 0
-exercises: 0
+title: "This is a test lesson"
+teaching: 20
+exercises: 5
 questions:
-- "Key question"
+- "What's the aim of this lesson"
 objectives:
-- "First objective."
+- "To learn stuff"
+- "To learn more stuff"
 keypoints:
-- "First key point."
+- "We learnt how to do stuff"
+- "And we learned even more things"
 ---
 
 >## Callout Title
@@ -18,3 +20,6 @@ keypoints:
 >Code goes here
 >~~~
 >{: .r}
+
+
+Here's some raw text.  Let's see what happens
