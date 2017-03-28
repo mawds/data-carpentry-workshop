@@ -13,8 +13,8 @@ keypoints:
 >## Callout Title
 >text text
 >text
-{: .callout}
-~~~
-Code goes here
-~~~
-{: .r}
+>{: .callout}
+>~~~
+>Code goes here
+>~~~
+>{: .r}
