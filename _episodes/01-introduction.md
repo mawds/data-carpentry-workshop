@@ -30,3 +30,5 @@ Here's some raw text.  Let's see what happens
 20 goto 10
 ~~~
 {: .source}
+
+.error  This went wrong
