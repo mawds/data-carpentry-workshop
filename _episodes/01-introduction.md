@@ -25,6 +25,7 @@ keypoints:
 Here's some raw text.  Let's see what happens
 
 ~~~
+5 rem test
 10 print "hello world"
 20 goto 10
 ~~~
