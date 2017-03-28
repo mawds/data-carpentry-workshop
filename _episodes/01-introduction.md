@@ -10,9 +10,11 @@ keypoints:
 - "First key point."
 ---
 
-This is  a test lession
+## Callout Title
+>text text
+>text
 
-.challenge This is a challenge
-.solution This is the solution
-
-
+~~~
+Code goes here
+~~~
+{.r}
