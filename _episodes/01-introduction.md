@@ -10,11 +10,11 @@ keypoints:
 - "First key point."
 ---
 
-## Callout Title
+>## Callout Title
 >text text
 >text
-
+{: .callout}
 ~~~
 Code goes here
 ~~~
-{.r}
+{: .r}
